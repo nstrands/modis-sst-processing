@@ -1,0 +1,3 @@
+Data/MODIS/*.nc
+__pycache__/
+venv/
